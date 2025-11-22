@@ -29,7 +29,7 @@
   > [!IMPORTANT]  
   > If you've already patched the VMWare Workstation before, uninstall the patch first in the unlocker program.
 
-  - Download both `darwin.iso` & `darwinPre15.iso` in <https://packages.vmware.com/tools/frozen/darwin/> and put them in a folder.
+  - Download both `darwin.iso` & `darwinPre15.iso` in <https://packages.vmware.com/tools/frozen/darwin/> and put them in a folder named `tools`.
   - In the unlocker program, uncheck `Download tools` and browse the directory containing the files you've downloaded.
 - Patch the VMWare Workstation!
 
